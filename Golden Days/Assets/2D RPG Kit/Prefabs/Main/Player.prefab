@@ -156,6 +156,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rigidBody: {fileID: 0}
   animator: {fileID: 0}
-  moveSpeed: 4
+  moveSpeed: 6
   areaTransitionName: 
   canMove: 1
